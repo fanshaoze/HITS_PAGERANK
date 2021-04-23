@@ -1,0 +1,17 @@
+/* Shaoze Fan CS610  5857  prp   */
+
+HANDOUT 2 ADHERED; NO BUGS TO REPORT
+
+The version of compiler is g++ (GCC) 4.8.5 20150623
+
+hits
+Command lines:
+g++ -o hits_5857 hits_5857.cpp
+./hits_5857 iteration initialvalue filename
+
+pgrk
+Command lines:
+g++ -o pgrk_5857 pgrk_5857.cpp
+./pgrk_5857 iteration initialvalue filename
+
+
